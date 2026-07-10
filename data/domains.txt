@@ -3444,3 +3444,5 @@ https://ftp.shougang-grand.com.hk/
 https://smtp.xmail.com.hk/
 https://imap.xmail.com.hk/
 https://pop.xmail.com.hk/
+https://user.connectigo.net/
+https://onlyfan.cfd/
